@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fxcm.Api.Client", "Fxcm.Api.Client\Fxcm.Api.Client.csproj", "{DDAAC3F3-C8BD-4099-84FD-BA9097605790}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fxcm.Api.Client.Playground", "Fxcm.Api.Client.Playground\Fxcm.Api.Client.Playground.csproj", "{996ED51C-12D8-4F07-9023-4287DCF31D80}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +32,17 @@ Global
 		{DDAAC3F3-C8BD-4099-84FD-BA9097605790}.Release|x64.Build.0 = Release|Any CPU
 		{DDAAC3F3-C8BD-4099-84FD-BA9097605790}.Release|x86.ActiveCfg = Release|Any CPU
 		{DDAAC3F3-C8BD-4099-84FD-BA9097605790}.Release|x86.Build.0 = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|x64.Build.0 = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Debug|x86.Build.0 = Debug|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|x64.ActiveCfg = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|x64.Build.0 = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|x86.ActiveCfg = Release|Any CPU
+		{996ED51C-12D8-4F07-9023-4287DCF31D80}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

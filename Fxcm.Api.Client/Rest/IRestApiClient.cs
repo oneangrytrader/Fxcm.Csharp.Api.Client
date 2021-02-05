@@ -2,7 +2,7 @@ using System;
 
 namespace Fxcm.Api.Client.Rest
 {
-    public class IRestApiClient
+    public interface IRestApiClient
     {
     }
 }
